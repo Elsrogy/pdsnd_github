@@ -5,6 +5,8 @@ import numpy as np
 # git say: " HELLO WORLD"
 print("Git: HELLO WORLD")
 
+# commit to pull 
+
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
