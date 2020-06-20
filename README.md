@@ -2,7 +2,7 @@
 Include the date you created this project and README file.
 
 ### Project Title
-GIT PROJECT 
+GIT and GitHub PROJECT
 
 ### Description
 GIT COURSE _ project submmation
