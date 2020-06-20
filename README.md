@@ -2,14 +2,14 @@
 Include the date you created this project and README file.
 
 ### Project Title
-GIT and GitHub PROJECT
+post my work on GitHub
 
 ### Description
-GIT COURSE _ project submmation
+IN this project i apply what i learn on git and github course to post my work on github
 
 ### Files used
-python_bikeshare
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/Elsrogy/pdsnd_github 
 
