@@ -4,6 +4,7 @@ import numpy as np
 
 # git say: " HELLO WORLD"
 print("Git: HELLO WORLD")
+# ADD comment HERE 
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
