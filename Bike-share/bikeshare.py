@@ -39,6 +39,7 @@ def check_input(input_str, input_type):
     return input_read
 
 
+# the get filter function 
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
